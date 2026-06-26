@@ -3,3 +3,8 @@ body {
     margin: 0;
     border: 1px solid black;
 }
+hero-section {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
